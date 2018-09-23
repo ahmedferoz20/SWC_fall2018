@@ -237,3 +237,6 @@ plot(Canada$year,Canada$lifeExp, col="blue", type="l")
 
 
 dev.off()
+
+
+#added comment for git, just and examples
